@@ -1,0 +1,115 @@
+html{
+	margin:0;
+}
+
+body{
+	text-align: center;
+	margin:0;
+	padding: 0;
+	background-image: url("treecloud.jpg");
+	background-size: cover;
+}
+
+h1{
+	color: #29322B;
+	font-weight: bolder;
+	letter-spacing: 0.1em;
+	font-family: 'Koulen', cursive;
+	font-size: 4em;
+	max-width: 70%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	line-height: 1em;
+}
+
+#desc{
+	
+	font-size: 2em;
+	margin-top: 5px;
+	line-height: 1em;
+	text-shadow: 0px 0px 0.5em lightgoldenrodyellow;
+	font-family: 'Overlock', cursive;
+	color: #29322B
+}
+
+#search-part{
+	text-align: center;
+	display: flex;
+	padding: 1%;
+
+}
+
+#search-box{
+	
+	min-height: 2em;
+	border-radius: 1em;
+	color:  4F5B49;
+	border: 0px;
+	
+	font-family: 'Overlock', cursive;
+	margin-right: 2em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	max-width: 10em;
+	margin-left: auto;
+	min-height: 2em;
+	padding: auto auto;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+	padding-left: 0.5em;
+	font-size: 1.5em;
+}
+
+
+#search-button{
+	height: 2em;
+	border-radius: 1em;
+	background: #8E9682;
+	color: ghostwhite;
+	width: 8em;
+	border: 0px;
+	font-size: 1em;
+	padding: 0;
+	padding-top: auto;
+	padding-bottom: auto;
+	font-weight: bolder;
+
+	min-height: 2em;
+	border-radius: 1em;
+	color:  4F5B49;
+	border: 0px;
+	color:29322B;
+	font-family: 'Overlock', cursive;
+	margin-right: 2em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	max-width: 10em;
+	margin-left: 1em;
+	margin-right: auto;
+	min-height: 2em;
+	padding: auto auto;
+	padding-top: 0.4em;
+	padding-bottom: 0.5em;
+	padding-left: 0.5em;
+	font-size: 1.5em;
+}
+
+.weather-element{
+	background: #B6B8A6;
+	opacity: 0.7;
+	text-align: center;
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	max-width: 20em;
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 2em;
+	padding: auto auto;
+	padding-top: 0.5em;
+	font-size: 1.5em;
+	font-family: 'Overlock', cursive;
+}
+
